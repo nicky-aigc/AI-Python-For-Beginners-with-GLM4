@@ -5,7 +5,7 @@
 
 ## Prerequisites
 - You need to have Python and some packages Jupyter Notebook on your computer.
-  - You can refer to 
+  - You can refer to [Installing_Python.ipynb](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/blob/main/S4/L7/Installing_Python.ipynb)
   - If one package is missing, you just pip install it    
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
   - The `.env` file should contain the following variables:  
