@@ -11,10 +11,10 @@ to have access to the Zhihu API, go to:https://bigmodel.cn/
 and sign up for a free account to get your API key.
 
 ## Use the corresponding helper_functions.py
-S1: AI Python for Beginners: [Basics of AI Python Coding](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S3)
-S2: AI Python for Beginners: Automating Tasks with Python
-S3: AI Python for Beginners: Working with Your Own Data and Documents in Python
-S4: AI Python for Beginners: Extending Python with Packages and APIs
+S1: AI Python for Beginners: Basics of AI Python Coding  
+S2: AI Python for Beginners: Automating Tasks with Python  
+S3: AI Python for Beginners: [Working with Your Own Data and Documents in Python](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S3)  
+S4: AI Python for Beginners: [Extending Python with Packages and APIs]()
 
 ## Attention!
 The most useful things to learn are in the helper_functions.py for each lesson.
