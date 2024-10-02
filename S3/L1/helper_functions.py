@@ -2,14 +2,11 @@
 import os
 
 from openai import OpenAI
-from dotenv import load_dotenv
 import csv
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv()) # read local .env file
 
 openai_api_key = os.getenv('OPENAI_API_KEY')
-zhipu_api_key = os.getenv('ZHIPU_API_KEY')
-
 
 # Set up the OpenAI client with zhipuAI key
 client = OpenAI(
