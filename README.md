@@ -1,5 +1,7 @@
 ## Goal
-Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners).
+- All the materials are built on deeplearning.ai's AI Python for Beginners series. 
+- The only goal is to make it easier for the learners for whom OpenAI API is not an option.
+- Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners).
 
 ## Prerequisites
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
@@ -10,7 +12,7 @@ Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial]
 - to have access to the Zhihu API, go to: <https://bigmodel.cn/>  
 Sign up for a free account to get your API key.
 
-## Use the corresponding helper_functions.py
+## All the modified materials(suitable for GLM4 Flash API)
 S1: AI Python for Beginners: Basics of AI Python Coding  
 S2: AI Python for Beginners: Automating Tasks with Python  
 S3: AI Python for Beginners: [Working with Your Own Data and Documents in Python](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S3)  
