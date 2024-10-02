@@ -1,7 +1,7 @@
 ## Goal
 - All the materials are built on deeplearning.ai's AI Python for Beginners series. 
 - The only goal is to make it easier for the learners for whom OpenAI API is not an option.
-- Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners).
+- Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners) locally.
 
 ## Prerequisites
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
