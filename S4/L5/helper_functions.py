@@ -4,7 +4,8 @@ from openai import OpenAI
 import requests
 import json
 import folium
-
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv()) # read local .env file
 
 openai_api_key = os.getenv('OPENAI_API_KEY')
 
