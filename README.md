@@ -4,9 +4,9 @@ Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial]
 ## Prerequisites
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
 - The `.env` file should contain the following variables:  
-- OPENAI_API_KEY="your_zhipu_api_key" # replace "your_zhipu_api_key" with your actual Zhihu API key.
+- OPENAI_API_KEY="your_zhipu_api_key" # replace "your_zhipu_api_key" with your actual ZhiPu API key.
 
-## Get your Zhihu API key
+## Get your ZhiPu API key
 - to have access to the Zhihu API, go to: <https://bigmodel.cn/>  
 Sign up for a free account to get your API key.
 
