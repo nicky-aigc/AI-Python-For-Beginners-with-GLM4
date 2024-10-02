@@ -19,7 +19,7 @@ client = OpenAI(
 
 def print_llm_response(prompt):
     """This function takes as input a prompt, which must be a string enclosed in quotation marks,
-    and passes it to OpenAI's GPT-4o-mini model. The function then prints the response of the model.
+    and passes it to GLM4 Flash model. The function then prints the response of the model.
     """
     try:
         if not isinstance(prompt, str):
@@ -43,7 +43,7 @@ def print_llm_response(prompt):
 
 def get_llm_response(prompt):
     """This function takes as input a prompt, which must be a string enclosed in quotation marks,
-    and passes it to OpenAI's GPT-4o-mini model. The function then saves the response of the model as
+    and passes it to GLM4 Flash model. The function then saves the response of the model as
     a string.
     """
     completion = client.chat.completions.create(
