@@ -1,0 +1,18 @@
+class MoE(nn.Module):     
+    def __init__(self, trained_experts):         
+        super(MoE, self).__init__()         
+        self.experts = nn.ModuleList(trained_experts)
+        num_experts = len(trained_experts)         
+# Assuming all experts have the same input dimension         
+        input_dim = trained_experts[0].layer1.in_features         
+        self.gating = Gating(input_dim, num_experts)      
+    def forward(self, x):         
+# Get the weights from the gating network         
+        weights = self.gating(x)          
+# Calculate the expert outputs         
+        outputs = torch.stack(            
+        [expert(x) for expert in self.experts], dim=2)          
+# Adjust the weights tensor shape to match the expert outputs         weights = weights.unsqueeze(1).expand_as(outputs)          
+# Multiply the expert outputs with the weights and         
+# sum along the third dimension         
+        return torch.sum(outputs * weights, dim=2)
