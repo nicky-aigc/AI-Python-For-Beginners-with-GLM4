@@ -59,25 +59,6 @@ def get_llm_response(prompt):
     response = completion.choices[0].message.content
     return response
 
-def get_chat_completion(prompt, history):
-    history_string = "\n\n".join(["\n".join(turn) for turn in history])
-    prompt_with_history = f"{history_string}\n\n{prompt}"
-    completion = client.chat.completions.create(
-        model="glm-4-flash",
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a helpful but terse AI assistant who gets straight to the point.",
-            },
-            {"role": "user", "content": prompt_with_history},
-        ],
-        temperature=0.0,
-    )
-    response = completion.choices[0].message.content
-    return response
-
-
-
 def get_current_time():
     now = dt.now()
     return now.strftime("%m/%d/%Y, %H:%M:%S")
