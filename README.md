@@ -1,5 +1,5 @@
 ## Goal
-Use the free GLM4 Flash API to run the AI Python for Beginners tutorial.
+Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners).
 
 ## Prerequisites
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
