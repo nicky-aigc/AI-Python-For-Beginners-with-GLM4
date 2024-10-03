@@ -1,5 +1,5 @@
 ## Goal
-- All the materials are built on deeplearning.ai's AI Python for Beginners series. 
+- All the materials are built on deeplearning.ai's [AI Python for Beginners series](https://learn.deeplearning.ai/courses/ai-python-for-beginners).   
 - The only goal is to make it easier for the learners for whom OpenAI API is not an option.
 - Use the free GLM4 Flash API to run the [AI Python for Beginners series tutorial](https://learn.deeplearning.ai/courses/ai-python-for-beginners) locally.
 
