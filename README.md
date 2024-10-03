@@ -3,9 +3,9 @@
 - The main objective is to provide an alternative for learners who can't access the OpenAI API.
 - We use the free GLM4 Flash API to run the AI Python for Beginners series locally.
 - I've also created study buddy agents on [智谱清言](https://chatglm.cn/) to assist learners:
-  - Season 1: [Learn Python with Andrew Ng - Study Buddy](https://chatglm.cn/main/gdetail/66ba050ebf79f88056ba4fa5)
-  - Season 2: [Learn Python with Andrew Ng (Season 2) - Study Buddy](https://chatglm.cn/main/gdetail/66d576c2e27e9d7acf9fd04f)
-  - Seasons 3 & 4: [Learn Python with Andrew Ng (Seasons 3 & 4) - Study Buddy](https://chatglm.cn/main/gdetail/66ed17f4c11b5e859c1e82e3)
+  - Season 1: [Learn Python with Andrew Ng - Study Buddy](https://chatglm.cn/main/gdetail/66ba050ebf79f88056ba4fa5?lang=en)
+  - Season 2: [Learn Python with Andrew Ng (Season 2) - Study Buddy](https://chatglm.cn/main/gdetail/66d576c2e27e9d7acf9fd04f?lang=en)
+  - Seasons 3 & 4: [Learn Python with Andrew Ng (Seasons 3 & 4) - Study Buddy](https://chatglm.cn/main/gdetail/66ed17f4c11b5e859c1e82e3?lang=en)
 
 ## Prerequisites
 - You need Python (with certain packages) and Jupyter Notebook installed on your computer.
