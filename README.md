@@ -33,7 +33,7 @@
 
 ---
 
-Chinese version:
+中文:
 
 ---
 
