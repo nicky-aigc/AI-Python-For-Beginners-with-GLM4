@@ -12,8 +12,10 @@
   - You can refer to [Installing_Python.ipynb](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/blob/main/S4/L7/Installing_Python.ipynb)
   - If one package is missing, you just pip install it    
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
-  - The `.env` file should contain the following variables:  
-  - OPENAI_API_KEY="your_zhipu_api_key" # replace "your_zhipu_api_key" with your actual ZhiPu API key.
+  - The `.env` file should contain the following variables:
+  ``` 
+  OPENAI_API_KEY="your_zhipu_api_key" # replace "your_zhipu_api_key" with your actual ZhiPu API key.
+  ```
 
 ## Get your ZhiPu API key
 - to have access to the Zhihu API, go to: <https://bigmodel.cn/>  
