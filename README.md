@@ -32,8 +32,6 @@
 - For available models, refer to [https://bigmodel.cn/dev/api/normal-model/glm-4](https://bigmodel.cn/dev/api/normal-model/glm-4)
 
 ---
-## 中文:
----
 
 ## 目标
 - 本项目基于 deeplearning.ai 的 [AI Python for Beginners 系列课程](https://learn.deeplearning.ai/courses/ai-python-for-beginners)。
