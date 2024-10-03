@@ -17,7 +17,7 @@
 Sign up for a free account to get your API key.
 
 ## All the modified materials(suitable for GLM4 Flash API)
-S1: AI Python for Beginners: Basics of AI Python Coding  
+S1: AI Python for Beginners: [Basics of AI Python Coding](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S1)  
 S2: AI Python for Beginners: Automating Tasks with Python  
 S3: AI Python for Beginners: [Working with Your Own Data and Documents in Python](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S3)  
 S4: AI Python for Beginners: [Extending Python with Packages and APIs](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/tree/main/S4)
