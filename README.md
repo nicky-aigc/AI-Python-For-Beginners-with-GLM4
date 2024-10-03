@@ -8,7 +8,7 @@
   - Study Buddy for Season 3 & Season 4: [【伴学】跟吴恩达老师学Python三四季](https://chatglm.cn/main/gdetail/66ed17f4c11b5e859c1e82e3)
 
 ## Prerequisites
-- You need to have Python and some packages Jupyter Notebook on your computer.
+- You need to have Python（and some packages）and Jupyter Notebook on your computer.
   - You can refer to [Installing_Python.ipynb](https://github.com/nicky-aigc/AI-Python-For-Beginners-with-GLM4/blob/main/S4/L7/Installing_Python.ipynb)
   - If one package is missing, you just pip install it    
 - You need to have an `.env` file in the same directory as the tutorial notebook.  
