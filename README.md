@@ -2,7 +2,7 @@
 - All the materials are built on deeplearning.ai's [AI Python for Beginners series](https://learn.deeplearning.ai/courses/ai-python-for-beginners).   
 - The only goal is to make it easier for the learners for whom OpenAI API is not an option.
 - Use the free GLM4 Flash API to run the [AI Python for Beginners series](https://learn.deeplearning.ai/courses/ai-python-for-beginners) locally.
-- I also created an AI Python for Beginners study buddy agents on [QingYan](https://chatglm.cn/):
+- I also created a series of study buddy agents on [QingYan](https://chatglm.cn/):
   - Study Buddy for Season 1: [【伴学】跟吴恩达老师学Python](https://chatglm.cn/main/gdetail/66ba050ebf79f88056ba4fa5)  
   - Study Buddy for Season 2: [【伴学】跟吴恩达老师学Python第二季](https://chatglm.cn/main/gdetail/66d576c2e27e9d7acf9fd04f)
   - Study Buddy for Season 3 & Season 4: [【伴学】跟吴恩达老师学Python三四季](https://chatglm.cn/main/gdetail/66ed17f4c11b5e859c1e82e3)
